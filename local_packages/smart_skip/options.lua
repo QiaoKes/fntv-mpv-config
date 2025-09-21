@@ -39,7 +39,7 @@ local DETECT_MODE = {
 -- 配置选项定义
 _G.opts = {
     -- 基础设置
-    enabled = true,
+    enabled = false,
     detect_mode = DETECT_MODE.AUTO, -- auto, chapter, manual, content
 
     -- 章节检测参数
